@@ -14,4 +14,8 @@ module.exports = {
       },
     }),
   },
+  watchFolders: [],
+  server: {
+    port: 8081,
+  },
 };
